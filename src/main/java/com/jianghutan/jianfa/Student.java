@@ -14,5 +14,8 @@ public class Student {
     public void jump(){
         System.out.println("跳了起来!");
     }
+    public void shout(){
+        System.out.println("大叫!");
+    }
 
 }
