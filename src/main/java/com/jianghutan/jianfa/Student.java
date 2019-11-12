@@ -22,4 +22,8 @@ public class Student {
         System.out.println("fefdsf ");
     }
 
+    public void ddd(){
+
+    }
+
 }
