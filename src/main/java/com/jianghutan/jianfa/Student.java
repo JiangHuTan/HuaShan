@@ -11,4 +11,8 @@ public class Student {
         System.out.println("hello , thank you !");
     }
 
+    public void jump(){
+        System.out.println("跳了起来!");
+    }
+
 }
