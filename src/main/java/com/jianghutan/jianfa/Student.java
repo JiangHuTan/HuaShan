@@ -26,4 +26,8 @@ public class Student {
 
     }
 
+    public void dddddd(){
+        System.out.println("口水歌!");
+    }
+
 }
