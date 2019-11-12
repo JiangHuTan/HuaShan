@@ -7,4 +7,8 @@ public class Student {
         System.out.println("我是张三,你好啊,朋友们!");
     }
 
+    public void run(){
+        System.out.println("hello , thank you !");
+    }
+
 }
