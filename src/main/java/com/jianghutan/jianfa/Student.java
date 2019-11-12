@@ -18,4 +18,8 @@ public class Student {
         System.out.println("大叫乐乐乐!");
     }
 
+    public void ppp(){
+        System.out.println("fefdsf ");
+    }
+
 }
