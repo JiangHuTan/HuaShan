@@ -5,6 +5,7 @@ public class Student {
     String address = "长岭";
 
     int age = 20;
+    int fff = 20;
 
     public void show(){
         System.out.println("我是张三,你好啊,朋友们!");
