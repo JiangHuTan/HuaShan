@@ -2,6 +2,7 @@ package com.jianghutan.jianfa;
 
 public class Student {
     String name = "aaa";
+    int age = 20;
 
     public void show(){
         System.out.println("我是张三,你好啊,朋友们!");
