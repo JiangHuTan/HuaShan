@@ -2,6 +2,7 @@ package com.jianghutan.jianfa;
 
 public class Student {
     String name = "aaa";
+    String address = "长岭县";
 
     int age = 20;
 
