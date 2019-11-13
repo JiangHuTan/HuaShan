@@ -30,4 +30,8 @@ public class Student {
         System.out.println("口水歌!");
     }
 
+    public void dance(){
+        System.out.println("跳起舞来!");
+    }
+
 }
