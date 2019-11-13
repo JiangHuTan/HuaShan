@@ -3,6 +3,7 @@ package com.jianghutan.jianfa;
 public class Student {
     String name = "aaa";
     String address = "长岭";
+    String stop = "岭南超市";
 
     int age = 20;
     int fff = 20;
